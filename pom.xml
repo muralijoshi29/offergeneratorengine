@@ -72,6 +72,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
+		<finalName>offer-generator-engine</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
